@@ -47,7 +47,7 @@ if __name__ == '__main__':
         print_dramatic_text('Incorrect')
         lives -= 1
         check_player_alive(lives)
-    
+     
     questions = [
         'What is the largest planet?',
         'What is the slowest animal in the world?'
